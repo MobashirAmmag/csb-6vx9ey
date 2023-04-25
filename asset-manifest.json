@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mobashirammag.github.io/csb-6vx9ey/static/css/main.f0c967a0.chunk.css",
+    "main.js": "https://mobashirammag.github.io/csb-6vx9ey/static/js/main.6f7e4dbc.chunk.js",
+    "main.js.map": "https://mobashirammag.github.io/csb-6vx9ey/static/js/main.6f7e4dbc.chunk.js.map",
+    "runtime-main.js": "https://mobashirammag.github.io/csb-6vx9ey/static/js/runtime-main.42a4dab4.js",
+    "runtime-main.js.map": "https://mobashirammag.github.io/csb-6vx9ey/static/js/runtime-main.42a4dab4.js.map",
+    "static/css/2.5c573378.chunk.css": "https://mobashirammag.github.io/csb-6vx9ey/static/css/2.5c573378.chunk.css",
+    "static/js/2.7221a5a5.chunk.js": "https://mobashirammag.github.io/csb-6vx9ey/static/js/2.7221a5a5.chunk.js",
+    "static/js/2.7221a5a5.chunk.js.map": "https://mobashirammag.github.io/csb-6vx9ey/static/js/2.7221a5a5.chunk.js.map",
+    "index.html": "https://mobashirammag.github.io/csb-6vx9ey/index.html",
+    "static/css/2.5c573378.chunk.css.map": "https://mobashirammag.github.io/csb-6vx9ey/static/css/2.5c573378.chunk.css.map",
+    "static/css/main.f0c967a0.chunk.css.map": "https://mobashirammag.github.io/csb-6vx9ey/static/css/main.f0c967a0.chunk.css.map",
+    "static/js/2.7221a5a5.chunk.js.LICENSE.txt": "https://mobashirammag.github.io/csb-6vx9ey/static/js/2.7221a5a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42a4dab4.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.7221a5a5.chunk.js",
+    "static/css/main.f0c967a0.chunk.css",
+    "static/js/main.6f7e4dbc.chunk.js"
+  ]
+}
